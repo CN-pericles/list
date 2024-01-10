@@ -1,5 +1,8 @@
 # NAME: EMBY
 
+IP-CIDR,202.61.255.248/32,noresolve
+IP-CIDR,188.172.228.49/32,noresolve
+DOMAIN-KEYWORD,emby
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
 DOMAIN-SUFFIX,cc.ccemby.tk
@@ -123,6 +126,3 @@ DOMAIN-SUFFIX,tv.ash.yt
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,ntrrr.am.sb
 DOMAIN-SUFFIX,e.niceduck.me
-IP-CIDR,202.61.255.248/32,noresolve
-IP-CIDR,188.172.228.49/32,noresolve
-DOMAIN-KEYWORD,emby
