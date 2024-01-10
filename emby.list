@@ -1,5 +1,4 @@
 # NAME: EMBY
-#payload:
 
 DOMAIN-SUFFIX,emby.aca.best
 DOMAIN-SUFFIX,porn.aca.best
@@ -16,7 +15,6 @@ DOMAIN-SUFFIX,ntt1.jmsooo.com
 DOMAIN-SUFFIX,hinet.jmsooo.com
 DOMAIN-SUFFIX,cf1.jmsooo.com
 DOMAIN-SUFFIX,ju.dog
-IP-CIDR,202.61.255.248/32,noresolve
 DOMAIN-SUFFIX,charontv.com
 DOMAIN-SUFFIX,misakaf.org
 DOMAIN-SUFFIX,pushkr.cfprefer3.xyz
@@ -79,7 +77,6 @@ DOMAIN-SUFFIX,shuipo.lol
 DOMAIN-SUFFIX,dicarerhome.com
 DOMAIN-SUFFIX,emby77.cf
 DOMAIN-SUFFIX,embyplus.org
-IP-CIDR,188.172.228.49/32,noresolve
 DOMAIN-SUFFIX,embytv.cf
 DOMAIN-SUFFIX,zox.show
 DOMAIN-SUFFIX,acemby.org
@@ -126,4 +123,4 @@ DOMAIN-SUFFIX,tv.ash.yt
 DOMAIN-SUFFIX,cf.jmsooo.com
 DOMAIN-SUFFIX,ntrrr.am.sb
 DOMAIN-SUFFIX,e.niceduck.me
-DOMAIN-KEYWORD,emby
+
