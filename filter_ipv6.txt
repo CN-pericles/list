@@ -1,4 +1,5 @@
 ||ipleak.net^$dnstype=AAAA
+||test-ipv6.com^$dnstype=AAAA
 ||000webhost.com^$dnstype=AAAA
 ||030buy.com^$dnstype=AAAA
 ||0rz.tw^$dnstype=AAAA
