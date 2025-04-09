@@ -1,4 +1,5 @@
 ||browserscan.net^$dnstype=AAAA
+||gov.moe^$dnstype=AAAA
 ||encryptedsni.com^$dnstype=AAAA
 ||ipleak.net^$dnstype=AAAA
 ||test-ipv6.com^$dnstype=AAAA
