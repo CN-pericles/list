@@ -1,3 +1,10 @@
+||cloudflare.net^$dnstype=AAAA
+||aaplimg.com^$dnstype=AAAA
+||openai.com^$dnstype=AAAA
+||akamaiedge.net^$dnstype=AAAA
+||akadns.net^$dnstype=AAAA
+||apple-dns.net^$dnstype=AAAA
+||sentry.io^$dnstype=AAAA
 ||browserscan.net^$dnstype=AAAA
 ||gov.moe^$dnstype=AAAA
 ||encryptedsni.com^$dnstype=AAAA
