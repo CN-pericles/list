@@ -1,5 +1,6 @@
 ||cloudflare.net^$dnstype=AAAA
 ||aaplimg.com^$dnstype=AAAA
+||apple.com^$dnstype=AAAA
 ||openai.com^$dnstype=AAAA
 ||akamaiedge.net^$dnstype=AAAA
 ||akadns.net^$dnstype=AAAA
