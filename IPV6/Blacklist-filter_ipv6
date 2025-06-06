@@ -1,3 +1,12 @@
+@@||mtalk.google.com^$dnstype=AAAA
+@@||alt1-mtalk.google.com^$dnstype=AAAA
+@@||alt2-mtalk.google.com^$dnstype=AAAA
+@@||alt3-mtalk.google.com^$dnstype=AAAA
+@@||alt4-mtalk.google.com^$dnstype=AAAA
+@@||alt5-mtalk.google.com^$dnstype=AAAA
+@@||alt6-mtalk.google.com^$dnstype=AAAA
+@@||alt7-mtalk.google.com^$dnstype=AAAA
+@@||alt8-mtalk.google.com^$dnstype=AAAA
 ||cloudflare.net^$dnstype=AAAA
 ||aaplimg.com^$dnstype=AAAA
 ||apple.com^$dnstype=AAAA
